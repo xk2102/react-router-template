@@ -1,2 +1,2 @@
-# react-router-template
+# react-simple-nav-router-template
 Created with CodeSandbox
